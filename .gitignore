@@ -3,3 +3,9 @@ groundTruth.csv
 valid_image
 valid_image\
 *.jpg
+*.jpg
+loc_out.csv
+class_out.csv
+*.csv
+*/__pycache__
+__pycache__
