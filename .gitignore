@@ -1,0 +1,5 @@
+image_path.csv
+groundTruth.csv
+valid_image
+valid_image\
+*.jpg

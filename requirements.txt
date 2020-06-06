@@ -1,0 +1,14 @@
+numpy
+opencv-python
+cython
+pandas
+pycocotools 
+numpy==1.16.0 
+tqdm 
+tensorboard 
+tensorboardX 
+pyyaml 
+webcolors 
+matplotlib
+torch==1.4.0
+torchvision==0.5.0
